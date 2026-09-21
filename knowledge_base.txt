@@ -1,0 +1,211 @@
+Waste Segregation Rules
+
+--- RECYCLABLES → Blue Recycling Bin ---
+1.  Plastic bottle → Blue Recycling Bin
+2.  Glass bottle → Blue Recycling Bin
+3.  Aluminium can → Blue Recycling Bin
+4.  Tin can → Blue Recycling Bin
+5.  Steel can → Blue Recycling Bin
+6.  Cardboard box → Blue Recycling Bin
+7.  Cardboard → Blue Recycling Bin
+8.  Newspaper → Blue Recycling Bin
+9.  Paper → Blue Recycling Bin
+10. Notebook → Blue Recycling Bin
+11. Magazine → Blue Recycling Bin
+12. Envelope → Blue Recycling Bin
+13. Flyer → Blue Recycling Bin
+14. Brochure → Blue Recycling Bin
+15. Cereal box → Blue Recycling Bin
+16. Milk carton → Blue Recycling Bin
+17. Juice carton → Blue Recycling Bin
+18. Shampoo bottle → Blue Recycling Bin
+19. Detergent bottle → Blue Recycling Bin
+20. Water bottle → Blue Recycling Bin
+21. Soft drink bottle → Blue Recycling Bin
+22. Yoghurt container → Blue Recycling Bin
+23. Ice cream tub → Blue Recycling Bin
+24. Plastic tray → Blue Recycling Bin
+25. Egg carton → Blue Recycling Bin
+26. Glass jar → Blue Recycling Bin
+27. Wine bottle → Blue Recycling Bin
+28. Beer can → Blue Recycling Bin
+29. Soda can → Blue Recycling Bin
+30. Printer paper → Blue Recycling Bin
+31. Office paper → Blue Recycling Bin
+32. Wrapping paper → Blue Recycling Bin
+33. Paper bag → Blue Recycling Bin
+34. Tin foil (clean) → Blue Recycling Bin
+35. Aluminium tray (clean) → Blue Recycling Bin
+36. Metal lid → Blue Recycling Bin
+37. Plastic container → Blue Recycling Bin
+38. Plastic lid → Blue Recycling Bin
+39. Plastic cup (hard) → Blue Recycling Bin
+40. Cardboard tube → Blue Recycling Bin
+
+--- COMPOSTABLES → Green Compost Bin ---
+41. Food scraps → Green Compost Bin
+42. Banana peel → Green Compost Bin
+43. Fruit waste → Green Compost Bin
+44. Vegetable peelings → Green Compost Bin
+45. Coffee grounds → Green Compost Bin
+46. Tea bag → Green Compost Bin
+47. Eggshell → Green Compost Bin
+48. Bread → Green Compost Bin
+49. Rice → Green Compost Bin
+50. Pasta → Green Compost Bin
+51. Leftover food → Green Compost Bin
+52. Apple core → Green Compost Bin
+53. Orange peel → Green Compost Bin
+54. Mango seed → Green Compost Bin
+55. Grass clippings → Green Compost Bin
+56. Fallen leaves → Green Compost Bin
+57. Garden waste → Green Compost Bin
+58. Flower cuttings → Green Compost Bin
+59. Paper towel (food-soiled) → Green Compost Bin
+60. Napkin (food-soiled) → Green Compost Bin
+61. Wooden chopsticks → Green Compost Bin
+62. Toothpick → Green Compost Bin
+63. Cork → Green Compost Bin
+64. Nut shells → Green Compost Bin
+65. Fruit juice pulp → Green Compost Bin
+66. Spoiled vegetables → Green Compost Bin
+67. Spoiled fruit → Green Compost Bin
+68. Fish bones → Green Compost Bin
+69. Chicken bones → Green Compost Bin
+70. Meat scraps → Green Compost Bin
+71. Dairy waste → Green Compost Bin
+72. Expired food → Green Compost Bin
+73. Cooking oil (small amount on tissue) → Green Compost Bin
+74. Dried flowers → Green Compost Bin
+75. Potting soil → Green Compost Bin
+76. Sawdust → Green Compost Bin
+77. Bamboo skewer → Green Compost Bin
+78. Ice lolly stick (wood) → Green Compost Bin
+79. Paper straw → Green Compost Bin
+80. Cardboard egg box (soiled) → Green Compost Bin
+
+--- GENERAL WASTE → Black General Waste Bin ---
+81. Coffee cup → Black General Waste
+82. Plastic wrapper → Black General Waste
+83. Chips packet → Black General Waste
+84. Styrofoam cup → Black General Waste
+85. Styrofoam box → Black General Waste
+86. Plastic straw → Black General Waste
+87. Plastic cutlery → Black General Waste
+88. Plastic fork → Black General Waste
+89. Plastic spoon → Black General Waste
+90. Plastic knife → Black General Waste
+91. Cling wrap → Black General Waste
+92. Bubble wrap → Black General Waste
+93. Plastic bag → Black General Waste
+94. Crisp packet → Black General Waste
+95. Sweet wrapper → Black General Waste
+96. Biscuit wrapper → Black General Waste
+97. Candy wrapper → Black General Waste
+98. Takeaway container → Black General Waste
+99. Broken ceramic → Black General Waste
+100. Broken crockery → Black General Waste
+101. Rubber band → Black General Waste
+102. Rubber glove → Black General Waste
+103. Sponge → Black General Waste
+104. Tape → Black General Waste
+105. Sticky note → Black General Waste
+106. Label → Black General Waste
+107. Sticker → Black General Waste
+108. Cigarette butt → Black General Waste
+109. Chewing gum → Black General Waste
+110. Broken glass → Black General Waste
+111. Mirror shard → Black General Waste
+112. Ceramic mug (broken) → Black General Waste
+113. Polystyrene packaging → Black General Waste
+114. Foil snack packet → Black General Waste
+115. Noodle cup → Black General Waste
+116. Plastic film → Black General Waste
+117. Laminated paper → Black General Waste
+118. Wax paper → Black General Waste
+119. Carbon paper → Black General Waste
+120. Broken umbrella → Black General Waste
+121. Broken chair → Black General Waste
+122. Broken locker → Black General Waste
+123. Pen (empty) → Black General Waste
+124. Pencil stub → Black General Waste
+125. Correction fluid bottle → Black General Waste
+126. Staple → Black General Waste
+127. Paper clip → Black General Waste
+128. Rubber eraser → Black General Waste
+129. Old bag (torn) → Black General Waste
+130. Worn shoes → Black General Waste
+131. Old clothing (torn, unusable) → Black General Waste
+132. Stuffed toy (damaged) → Black General Waste
+
+--- E-WASTE → Admin Office E-Waste Drop-off ---
+133. Battery → Admin Office E-Waste Drop-off
+134. Electronic waste → Admin Office E-Waste Drop-off
+135. Pen drive → Admin Office E-Waste Drop-off
+136. USB drive → Admin Office E-Waste Drop-off
+137. Mobile phone → Admin Office E-Waste Drop-off
+138. Laptop → Admin Office E-Waste Drop-off
+139. Tablet → Admin Office E-Waste Drop-off
+140. Charger → Admin Office E-Waste Drop-off
+141. Power bank → Admin Office E-Waste Drop-off
+142. Earphones → Admin Office E-Waste Drop-off
+143. Headphones → Admin Office E-Waste Drop-off
+144. Computer mouse → Admin Office E-Waste Drop-off
+145. Keyboard → Admin Office E-Waste Drop-off
+146. Printer cartridge → Admin Office E-Waste Drop-off
+147. Toner cartridge → Admin Office E-Waste Drop-off
+148. Light bulb → Admin Office E-Waste Drop-off
+149. Fluorescent tube → Admin Office E-Waste Drop-off
+150. CFL bulb → Admin Office E-Waste Drop-off
+151. LED strip → Admin Office E-Waste Drop-off
+152. Remote control → Admin Office E-Waste Drop-off
+153. Calculator → Admin Office E-Waste Drop-off
+154. Digital watch → Admin Office E-Waste Drop-off
+155. Camera → Admin Office E-Waste Drop-off
+156. Hard drive → Admin Office E-Waste Drop-off
+157. Memory card → Admin Office E-Waste Drop-off
+158. Extension cord → Admin Office E-Waste Drop-off
+159. Power adapter → Admin Office E-Waste Drop-off
+160. Circuit board → Admin Office E-Waste Drop-off
+161. Broken phone → Admin Office E-Waste Drop-off
+162. Old laptop → Admin Office E-Waste Drop-off
+163. Smart watch → Admin Office E-Waste Drop-off
+164. Wireless mouse → Admin Office E-Waste Drop-off
+165. Monitor → Admin Office E-Waste Drop-off
+166. Projector → Admin Office E-Waste Drop-off
+167. Speaker → Admin Office E-Waste Drop-off
+168. Microphone → Admin Office E-Waste Drop-off
+169. Router → Admin Office E-Waste Drop-off
+170. Modem → Admin Office E-Waste Drop-off
+171. Desktop computer → Admin Office E-Waste Drop-off
+172. External hard drive → Admin Office E-Waste Drop-off
+
+--- SANITARY WASTE → Red Sanitary Waste Bin ---
+173. Used tissue → Red Sanitary Waste Bin
+174. Sanitary waste → Red Sanitary Waste Bin
+175. Sanitary pad → Red Sanitary Waste Bin
+176. Tampon → Red Sanitary Waste Bin
+177. Panty liner → Red Sanitary Waste Bin
+178. Baby diaper → Red Sanitary Waste Bin
+179. Adult diaper → Red Sanitary Waste Bin
+180. Cotton swab → Red Sanitary Waste Bin
+181. Cotton ball → Red Sanitary Waste Bin
+182. Bandage → Red Sanitary Waste Bin
+183. Plaster → Red Sanitary Waste Bin
+184. Face mask (used) → Red Sanitary Waste Bin
+185. Surgical glove (used) → Red Sanitary Waste Bin
+186. Nitrile glove (used) → Red Sanitary Waste Bin
+187. Dental floss → Red Sanitary Waste Bin
+188. Razor blade → Red Sanitary Waste Bin
+189. Razor (used) → Red Sanitary Waste Bin
+190. Nail clippings → Red Sanitary Waste Bin
+191. Hair (loose/cut) → Red Sanitary Waste Bin
+192. Contact lens → Red Sanitary Waste Bin
+193. Condom → Red Sanitary Waste Bin
+194. Pregnancy test kit → Red Sanitary Waste Bin
+195. Urine test strip → Red Sanitary Waste Bin
+196. Blood glucose test strip → Red Sanitary Waste Bin
+197. Syringes (non-sharps, capped) → Red Sanitary Waste Bin
+198. Medical wipe → Red Sanitary Waste Bin
+199. Wound dressing → Red Sanitary Waste Bin
+200. Surgical mask → Red Sanitary Waste Bin
